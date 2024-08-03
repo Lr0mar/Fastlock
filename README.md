@@ -6,7 +6,8 @@ Commands and usage :
 
 /rpline = disables the rp lines that are sent when you press "L" for personal vehicles or "K" for family vehicles
 
-/rpedit = helps you customize the rp lines to your liking, /rpedit personal/family <your line without /me>, for example /rpedit personal locks his car OR /rpedit family locks his family car
+/rpedit = helps you customize the rp lines to your liking, /rpedit personal/family <your line without /me>,
+for example /rpedit personal locks his car OR /rpedit family locks his family car
 
 updates to the old script (v1)
 
