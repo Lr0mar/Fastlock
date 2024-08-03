@@ -17,7 +17,9 @@ OR
 updates to the old script (v1)
 
 added new commands (/rpline & /rpedit)
+
 added more notes to the script to further simplify the reading process
+
 changed version to v2
 
 forum post link :
